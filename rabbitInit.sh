@@ -10,7 +10,7 @@ fi
 RABBIT_ADMIN=dev1
 RABBIT_ADMIN_PASSWD=poopoopoo
 
-### TP1 User ###
+### TP User ###
 RABBIT_TP_USER=dev2
 RABBIT_TP_PASSWD=poopoopoo
 
